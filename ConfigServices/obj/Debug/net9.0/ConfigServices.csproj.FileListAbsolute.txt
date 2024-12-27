@@ -1,0 +1,12 @@
+C:\Users\GCE\RiderProjects\ConsoleAppMail\ConfigServices\bin\Debug\net9.0\ConfigServices.deps.json
+C:\Users\GCE\RiderProjects\ConsoleAppMail\ConfigServices\bin\Debug\net9.0\ConfigServices.dll
+C:\Users\GCE\RiderProjects\ConsoleAppMail\ConfigServices\bin\Debug\net9.0\ConfigServices.pdb
+C:\Users\GCE\RiderProjects\ConsoleAppMail\ConfigServices\obj\Debug\net9.0\ConfigServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GCE\RiderProjects\ConsoleAppMail\ConfigServices\obj\Debug\net9.0\ConfigServices.AssemblyInfoInputs.cache
+C:\Users\GCE\RiderProjects\ConsoleAppMail\ConfigServices\obj\Debug\net9.0\ConfigServices.AssemblyInfo.cs
+C:\Users\GCE\RiderProjects\ConsoleAppMail\ConfigServices\obj\Debug\net9.0\ConfigServices.csproj.CoreCompileInputs.cache
+C:\Users\GCE\RiderProjects\ConsoleAppMail\ConfigServices\obj\Debug\net9.0\ConfigServices.dll
+C:\Users\GCE\RiderProjects\ConsoleAppMail\ConfigServices\obj\Debug\net9.0\refint\ConfigServices.dll
+C:\Users\GCE\RiderProjects\ConsoleAppMail\ConfigServices\obj\Debug\net9.0\ConfigServices.pdb
+C:\Users\GCE\RiderProjects\ConsoleAppMail\ConfigServices\obj\Debug\net9.0\ref\ConfigServices.dll
+C:\Users\GCE\RiderProjects\ConsoleAppMail\ConfigServices\bin\Debug\net9.0\mail.ini

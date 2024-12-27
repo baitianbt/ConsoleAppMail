@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gUmtWZ/J/8M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GCE\\RiderProjects\\ConsoleAppMail\\ConfigServices\\ConfigServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GCE\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

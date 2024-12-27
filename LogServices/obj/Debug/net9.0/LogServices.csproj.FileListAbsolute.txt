@@ -1,0 +1,12 @@
+C:\Users\GCE\RiderProjects\ConsoleAppMail\LogServices\bin\Debug\net9.0\LogServices.deps.json
+C:\Users\GCE\RiderProjects\ConsoleAppMail\LogServices\bin\Debug\net9.0\LogServices.dll
+C:\Users\GCE\RiderProjects\ConsoleAppMail\LogServices\bin\Debug\net9.0\LogServices.pdb
+C:\Users\GCE\RiderProjects\ConsoleAppMail\LogServices\obj\Debug\net9.0\LogServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GCE\RiderProjects\ConsoleAppMail\LogServices\obj\Debug\net9.0\LogServices.AssemblyInfoInputs.cache
+C:\Users\GCE\RiderProjects\ConsoleAppMail\LogServices\obj\Debug\net9.0\LogServices.AssemblyInfo.cs
+C:\Users\GCE\RiderProjects\ConsoleAppMail\LogServices\obj\Debug\net9.0\LogServices.csproj.CoreCompileInputs.cache
+C:\Users\GCE\RiderProjects\ConsoleAppMail\LogServices\obj\Debug\net9.0\LogServices.dll
+C:\Users\GCE\RiderProjects\ConsoleAppMail\LogServices\obj\Debug\net9.0\refint\LogServices.dll
+C:\Users\GCE\RiderProjects\ConsoleAppMail\LogServices\obj\Debug\net9.0\LogServices.pdb
+C:\Users\GCE\RiderProjects\ConsoleAppMail\LogServices\obj\Debug\net9.0\ref\LogServices.dll
+C:\Users\GCE\RiderProjects\ConsoleAppMail\LogServices\obj\Debug\net9.0\LogServices.csproj.AssemblyReference.cache
